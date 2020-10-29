@@ -32,6 +32,6 @@ Here are some ideas to get you started:
 
 ### Spotify Playing 🎧
 
-[<img src="https://coco-lng.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/cocolangemusic)
+[<img src="https://now-playing-profile-e34qic3fu.vercel.app/now-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/cocolangemusic)
 
 
