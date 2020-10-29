@@ -2,8 +2,8 @@
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="300" />
 
-- 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning JavaScript and Dart.
+- 👨🏽‍💻 I’m currently working on something cool :wink:
+- 🌱 I’m currently learning so much things
 - 🎓 I'm a Student at Sorbonne University
  
 <!--
