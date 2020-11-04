@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="220" />
 
-- 👨🏽‍💻 I’m currently working on something cool :wink:
+- 👨🏽‍💻 I’m currently working on something cool
 - 🌱 I’m currently learning so much things
 - 🎓 I'm a Student at Sorbonne University
  
@@ -20,20 +20,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 <!--
-### Hi there 👋
-
-<!--
-## I'm a TechFan!!
-<!--
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
--->
 
 ### Spotify Playing 🎧
 
 [<img src="https://now-playing-profile-e34qic3fu.vercel.app/now-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/cocolangemusic)
-
-
