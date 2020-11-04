@@ -19,8 +19,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-<!--
+-->
 
 ### Spotify Playing 🎧
 
 [<img src="https://now-playing-profile-e34qic3fu.vercel.app/now-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/cocolangemusic)
+
