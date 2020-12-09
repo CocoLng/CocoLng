@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="210" />
 
-- 👨🏽‍💻 I’m currently working on something cool
+- 👨🏽‍💻 I’m actively working on something cool
 - 🌱 I’m currently learning so much things
 - 🎓 I'm a Student at Sorbonne University
  
