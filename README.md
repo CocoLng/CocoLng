@@ -3,7 +3,7 @@
 [<img align="right" alt="Hello" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="380" height="210" />](https://github.com/CocoLng)
 
 - 👨🏽‍💻 I’m actively working on something cool
-- 🌱 I’m currently learning so much things
+- 🌱 I’m currently learning so many things
 - 🎓 I'm a Student at Sorbonne University
  
 <!--
