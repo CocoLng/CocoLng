@@ -1,27 +1,13 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<h1 align="center">Hi, I'm Coco 👋</h1>
 
-[<img align="right" alt="Hello" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="380" height="210" />](https://github.com/CocoLng)
+<p align="center">
+  <img src="./header.svg" alt="CocoLng — AI engineer" width="760">
+</p>
 
-- 👨🏽‍💻 I’m actively working on something cool
-- 🌱 I’m currently learning so many things
-- 🎓 I'm a Student at Sorbonne University
- 
-<!--
-**CocoLng/CocoLng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<!--
-Here are some ideas to get you started:
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
-### Spotify Playing 🎧
-<!-- Check vercel -->
-[<img src="https://now-playing-profile-e34qic3fu.vercel.app/now-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/cocolangemusic)
+### 🔭 A bit about me
 
+- 🤖 &nbsp;Building AI / ML systems and the services around them, mostly in Python
+- 🛠️ &nbsp;Care about testing, tooling, and automation
+- 🔧 &nbsp;Self-hosting & homelab tinkerer on the side
